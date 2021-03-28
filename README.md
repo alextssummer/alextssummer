@@ -7,13 +7,11 @@
 ## BIO
 
 Name: Alex M.
-
 Username: willytheshiba
-
 Email: willytheshiba.operator@gmail.com
 
-City: MX
 
+City: MX
 Twitter: @willytheshiba
 
 
