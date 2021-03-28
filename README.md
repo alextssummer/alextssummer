@@ -2,4 +2,11 @@
 
 ## BIO
 
+Name: Alex M.
+Username: willytheshiba
+Email: willytheshiba.operator@gmail.com
+City: MX
+Twitter: @willytheshiba
+
+
 **Contact me on Discord: willytheshiba#4127**
