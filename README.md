@@ -7,4 +7,4 @@
 ## BIO
 
 
-**Contactame en Discord como: willytheshiba#4127** (◕ᴥ◕ʋ)
+**Contactame en Discord como: Willy. ♡#2448** (◕ᴥ◕ʋ)
