@@ -7,6 +7,6 @@
 ## BIO
 
 
-**Contactame en Discord como: willytheshiba#2448** (◕ᴥ◕ʋ)
+**Contactame en Discord como: Alex Sth.#2448** (◕ᴥ◕ʋ)
 
 ![](https://komarev.com/ghpvc/?username=willytheshiba&color=blueviolet)
