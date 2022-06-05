@@ -1,12 +1,26 @@
-<img align='left' src='https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif' width='20%'>  
+# SquidGame
 
+Minecraft Minigame inspired by the famous and trending Netflix series "Squid Game"
 
+### Features
 
+- [x] 1.8 Support  
+- [ ] Better configuration  
+- [ ] Bungee-arena Support  
+- [ ] Developer API  
+- [ ] Dynamic Translation System  
+- [ ] Leaderboards  
+- [ ] Min and max players per arena  
+- [ ] Player statistics  
+- [ ] Teaming Mode  
 
+### Minigames
 
-## BIO
-
-
-**Contactame en Discord como: Alex Sth.#2448** (◕ᴥ◕ʋ)
-
-![](https://komarev.com/ghpvc/?username=willytheshiba&color=blueviolet)
+- [x] Intermission  
+- [x] First Game  
+- [ ] Second Game  
+- [x] Third Game  
+- [ ] Fourth Game  
+- [ ] Fifth Game  
+- [x] Sixth Game  
+- [x] Seventh Game  
