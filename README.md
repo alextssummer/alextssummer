@@ -1,4 +1,4 @@
-## Hey! I'm Alex & I ❤️ code.
+# Hey! I'm Alex & I ❤️ code.
 <h4>Currently working on private projects</h4>
 
 <hr>
