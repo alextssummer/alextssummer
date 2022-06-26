@@ -3,4 +3,4 @@ Currently working on private projects
 
 
 
-![](https://komarev.com/ghpvc/?username=willytheshiba&color=blueviolet)
+![visitors](https://komarev.com/ghpvc/?username=willytheshiba&color=blueviolet)
